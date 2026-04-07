@@ -160,4 +160,10 @@ MIT License
 该工具更适合作为一个补充工具使用：  
   
 - 不替代系统锁屏    
-- 只解决“不中断运行但需要防操作”的问题    
+- 只解决“不中断运行但需要防操作”的问题
+  
+---  
+
+  ## 🚀 下载
+
+👉 [下载最新版本](https://github.com/UnicusT11/defend-your-screen/releases/latest)

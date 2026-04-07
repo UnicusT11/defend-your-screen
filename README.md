@@ -152,4 +152,10 @@ MIT License
   
 This tool is not a replacement for system lock.  
   
-It’s designed for convenience in specific scenarios where interrupting the current session is not desirable.  
+It’s designed for convenience in specific scenarios where interrupting the current session is not desirable.   
+
+---  
+  
+## 🚀 Download
+
+👉 [Download Latest Release](https://github.com/UnicusT11/defend-your-screen/releases/latest)
